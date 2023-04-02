@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<center><h1 style="font-size: 60px; color: red;">Партії</h1></center>
